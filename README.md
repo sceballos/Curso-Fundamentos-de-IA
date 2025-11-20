@@ -16,3 +16,6 @@ https://drive.google.com/drive/folders/1Q_kjl2SRZTA_zbIMSAaFz0PKPgwoYjSJ?usp=sha
 https://www.guayerd.com/ibm-ia/sbplan2025 
 ¡Esperamos verte en nuestras clases!
 Equipo Guayerd & IBM SkillsBuild
+
+
+Para la libreria de machine-learning: https://scikit-learn.org/
